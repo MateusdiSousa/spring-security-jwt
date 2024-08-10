@@ -1,13 +1,13 @@
-package br.com.mateus.spring_security_jwt;
+package com.mateus.spring_security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityJwtApplication {
+public class SpringSecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityJwtApplication.class, args);
+		SpringApplication.run(SpringSecurityApplication.class, args);
 	}
 
 }
