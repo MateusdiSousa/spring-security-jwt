@@ -1,13 +1,12 @@
-package com.mateus.spring_security;
+package com.mateus.secuity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityApplication {
+public class SecuityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityApplication.class, args);
+		SpringApplication.run(SecuityApplication.class, args);
 	}
-
 }

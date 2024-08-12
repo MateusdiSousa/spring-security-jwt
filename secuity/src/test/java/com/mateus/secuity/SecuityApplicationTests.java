@@ -1,10 +1,10 @@
-package com.mateus.spring_security;
+package com.mateus.secuity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityApplicationTests {
+class SecuityApplicationTests {
 
 	@Test
 	void contextLoads() {
